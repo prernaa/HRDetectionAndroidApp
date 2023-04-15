@@ -27,3 +27,5 @@ H = height/4 OR heigh/2
 VIDEO and ISSUES:
 
 My resting heart according to an iPhone app should be around 72. As you can see in the video, my app also detects 72, however it’s not very stable. I could try to take a moving average of the heart rate and display that in order to stabilize it. Over a period of time, average heart rate detected by my app should be stable. 
+
+NOTE: The following file could NOT be uploaded to github due to it's size. You'll need to re-install the opencv sdk: HeartRateMain/app/libs/OpenCV-android-sdk/sdk/native/3rdparty/libs/x86_64/libippicv.a
